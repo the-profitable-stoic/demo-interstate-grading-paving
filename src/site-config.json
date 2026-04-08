@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "Interstate Grading & Paving",
+    "phone": "+16509527333",
+    "category": "driveway paving",
+    "city": "San Francisco",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "San Francisco's Driveway Paving Experts",
+      "heroSubline": "Durable driveways built to last. Interstate Grading & Paving delivers quality and value across the Bay Area.",
+      "aboutTitle": "Decades of Bay Area Paving Expertise",
+      "aboutText": [
+        "Interstate Grading & Paving started with a simple goal: provide reliable and long-lasting driveway solutions for San Francisco homeowners. We've spent over a decade honing our skills, understanding the unique challenges of the Bay Area's climate and terrain.",
+        "Our approach is straightforward: meticulous planning, quality materials, and skilled execution. We believe in clear communication and transparent pricing, ensuring you're informed every step of the way. We treat every project, big or small, with the same level of dedication.",
+        "We're proud to be a part of the San Francisco community. From supporting local youth sports to partnering with neighborhood associations, we're committed to giving back to the city we call home."
+      ],
+      "valueProps": [
+        {
+          "title": "Durable Materials",
+          "description": "We source only the highest quality asphalt, concrete, and paving stones to withstand San Francisco's weather."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our experienced team ensures precise grading, proper drainage, and flawless installation for long-lasting results."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "We provide detailed, upfront quotes with no hidden fees, so you know exactly what to expect."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand the specific challenges of San Francisco's soil and climate, ensuring a durable and lasting driveway."
+        }
+      ],
+      "ctaHeadline": "Get Your Free Driveway Estimate Today!",
+      "ctaSubline": "Contact Interstate Grading & Paving for reliable and affordable driveway solutions in San Francisco."
+    },
+    "services": [
+      {
+        "slug": "asphalt-driveway-paving",
+        "name": "Asphalt Driveway Paving",
+        "shortDescription": "Durable and cost-effective asphalt driveways for San Francisco homes.",
+        "description": "Asphalt driveways are a popular choice for San Francisco homeowners due to their durability and affordability. Interstate Grading & Paving specializes in asphalt driveway installation, repair, and resurfacing. We understand the importance of proper grading and drainage to prevent water damage and ensure a long-lasting surface. Our team uses only the highest quality asphalt mixes designed to withstand the Bay Area's unique climate fluctuations. \n\nFrom initial excavation to final compaction, we meticulously manage every step of the process. We ensure a smooth, even surface that enhances your property's curb appeal. We also offer asphalt repair services to address cracks, potholes, and other damage, extending the life of your driveway. Whether you need a new driveway or a simple repair, Interstate Grading & Paving delivers expert asphalt solutions.",
+        "process": [
+          "Step 1: Site Assessment and Preparation: We evaluate the existing site, ensuring proper drainage and soil compaction.",
+          "Step 2: Grading and Base Installation: We establish the correct slope and install a solid base layer for optimal stability.",
+          "Step 3: Asphalt Paving: We apply hot-mix asphalt evenly, ensuring a smooth and durable surface.",
+          "Step 4: Compaction and Finishing: We compact the asphalt and apply a sealant for long-lasting protection."
+        ],
+        "benefits": [
+          "Cost-effective driveway solution",
+          "Durable and long-lasting",
+          "Smooth and even surface",
+          "Enhanced curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "How long does an asphalt driveway last in San Francisco?",
+            "answer": "With proper maintenance, an asphalt driveway can last 15-20 years in San Francisco's climate."
+          },
+          {
+            "question": "What type of asphalt do you use?",
+            "answer": "We use a high-quality hot-mix asphalt specifically designed for residential driveways and local weather conditions."
+          },
+          {
+            "question": "How much does asphalt driveway paving cost?",
+            "answer": "The cost of asphalt driveway paving varies depending on the size of the driveway and the complexity of the project. Contact us for a free estimate."
+          }
+        ]
+      },
+      {
+        "slug": "concrete-driveway-paving",
+        "name": "Concrete Driveway Paving",
+        "shortDescription": "Elegant and durable concrete driveways for a sophisticated look.",
+        "description": "Concrete driveways offer a timeless and elegant aesthetic for San Francisco homes. Interstate Grading & Paving provides expert concrete driveway installation, repair, and replacement services. We understand the importance of proper concrete mixing and curing to ensure a strong and durable surface that can withstand heavy use and the elements. Our team is skilled in creating custom concrete designs, including stamped concrete and colored concrete, to match your home's style.\n\nWe meticulously prepare the site, ensuring proper grading and drainage to prevent cracking and settling. We use reinforced concrete to provide maximum strength and longevity. Whether you prefer a classic gray concrete finish or a decorative stamped design, Interstate Grading & Paving delivers exceptional concrete driveway solutions. We handle everything from the initial excavation to the final sealing, ensuring a flawless and long-lasting result.",
+        "process": [
+          "Step 1: Site Excavation and Preparation: We remove existing materials and prepare the site for concrete pouring.",
+          "Step 2: Formwork and Reinforcement: We build forms and install reinforcing steel for added strength.",
+          "Step 3: Concrete Pouring and Finishing: We pour and level the concrete, creating a smooth and even surface.",
+          "Step 4: Curing and Sealing: We cure the concrete properly and apply a sealant for long-lasting protection."
+        ],
+        "benefits": [
+          "Elegant and timeless aesthetic",
+          "Durable and long-lasting",
+          "Custom design options",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "How long does a concrete driveway last?",
+            "answer": "A well-maintained concrete driveway can last 25-30 years or more."
+          },
+          {
+            "question": "Can I customize the look of my concrete driveway?",
+            "answer": "Yes, we offer a variety of decorative options, including stamped concrete, colored concrete, and exposed aggregate finishes."
+          },
+          {
+            "question": "How much does a concrete driveway cost?",
+            "answer": "The cost of a concrete driveway depends on the size, design, and complexity of the project. Contact us for a free, no-obligation estimate."
+          }
+        ]
+      },
+      {
+        "slug": "paver-driveway-installation",
+        "name": "Paver Driveway Installation",
+        "shortDescription": "Add beauty and value to your property with a custom paver driveway.",
+        "description": "Paver driveways offer a unique and customizable option for San Francisco homeowners. Interstate Grading & Paving specializes in paver driveway installation, using a variety of materials, including brick, concrete pavers, and natural stone. We understand the importance of proper base preparation and paver installation to ensure a stable and long-lasting surface. Our team can create custom paver designs to complement your home's architecture and landscaping.\n\nWe meticulously prepare the base, ensuring proper compaction and drainage to prevent settling and shifting. We use high-quality pavers that are resistant to cracking, fading, and staining. Whether you prefer a classic brick pattern or a modern geometric design, Interstate Grading & Paving delivers exceptional paver driveway solutions. From the initial design to the final sealing, we handle every detail with precision and care.",
+        "process": [
+          "Step 1: Design Consultation: We work with you to choose the perfect paver style and design for your property.",
+          "Step 2: Site Excavation and Preparation: We excavate the area and prepare a solid base for paver installation.",
+          "Step 3: Paver Installation: We carefully install the pavers according to the chosen design.",
+          "Step 4: Compaction and Joint Sanding: We compact the pavers and fill the joints with sand for stability."
+        ],
+        "benefits": [
+          "Unique and customizable design options",
+          "Durable and long-lasting",
+          "Increased property value",
+          "Enhanced curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "What types of pavers are available?",
+            "answer": "We offer a wide variety of pavers, including brick, concrete pavers, and natural stone."
+          },
+          {
+            "question": "How long will a paver driveway last?",
+            "answer": "With proper installation and maintenance, a paver driveway can last 25-30 years or more."
+          },
+          {
+            "question": "How much does a paver driveway cost?",
+            "answer": "The cost of a paver driveway depends on the type of pavers, the size of the driveway, and the complexity of the design. Contact us for a free estimate."
+          }
+        ]
+      },
+      {
+        "slug": "driveway-repair-and-resurfacing",
+        "name": "Driveway Repair and Resurfacing",
+        "shortDescription": "Restore your driveway to its former glory with our expert repair services.",
+        "description": "Is your San Francisco driveway showing signs of wear and tear? Interstate Grading & Paving offers comprehensive driveway repair and resurfacing services to restore your driveway to its former glory. We address a wide range of issues, including cracks, potholes, settling, and drainage problems. Our team uses advanced techniques and quality materials to ensure a long-lasting repair.\n\nWe assess the damage and recommend the most appropriate repair solution, whether it's patching cracks, filling potholes, or resurfacing the entire driveway. We understand the importance of addressing the underlying causes of driveway damage to prevent future problems. Whether you have an asphalt, concrete, or paver driveway, Interstate Grading & Paving delivers expert repair and resurfacing solutions.",
+        "process": [
+          "Step 1: Damage Assessment: We thoroughly inspect your driveway to identify the extent of the damage.",
+          "Step 2: Repair Recommendation: We recommend the most effective and cost-efficient repair solution.",
+          "Step 3: Repair Execution: We perform the necessary repairs using quality materials and proven techniques.",
+          "Step 4: Finishing and Sealing: We finish the repairs and apply a sealant for long-lasting protection."
+        ],
+        "benefits": [
+          "Extended driveway lifespan",
+          "Improved curb appeal",
+          "Enhanced safety",
+          "Cost-effective solution"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my driveway needs repair or resurfacing?",
+            "answer": "If your driveway has significant cracks, potholes, or settling, it may need repair or resurfacing."
+          },
+          {
+            "question": "Can you repair any type of driveway?",
+            "answer": "Yes, we repair asphalt, concrete, and paver driveways."
+          },
+          {
+            "question": "How much does driveway repair cost?",
+            "answer": "The cost of driveway repair depends on the extent of the damage and the type of repair needed. Contact us for a free estimate."
+          }
+        ]
+      },
+      {
+        "slug": "driveway-sealing",
+        "name": "Driveway Sealing",
+        "shortDescription": "Protect your asphalt driveway from the elements with professional sealing.",
+        "description": "Driveway sealing is an essential maintenance task that can significantly extend the life of your asphalt driveway. Interstate Grading & Paving offers professional driveway sealing services to protect your driveway from the damaging effects of the sun, rain, and traffic. We use high-quality sealants that penetrate the asphalt surface, creating a protective barrier against water, oil, and chemicals.\n\nOur team meticulously prepares the driveway surface, ensuring it is clean and free of debris. We apply the sealant evenly, creating a uniform and durable finish. Driveway sealing not only protects your driveway but also enhances its appearance, giving it a fresh and revitalized look. Interstate Grading & Paving recommends sealing your asphalt driveway every 2-3 years to maintain its optimal condition.",
+        "process": [
+          "Step 1: Driveway Cleaning: We thoroughly clean the driveway surface to remove dirt, debris, and oil stains.",
+          "Step 2: Crack Filling (if needed): We fill any cracks in the asphalt surface to prevent water penetration.",
+          "Step 3: Sealant Application: We apply a high-quality sealant evenly across the driveway surface.",
+          "Step 4: Curing Time: We allow the sealant to cure properly before allowing traffic on the driveway."
+        ],
+        "benefits": [
+          "Extended driveway lifespan",
+          "Protection from the elements",
+          "Enhanced appearance",
+          "Prevention of cracks and potholes"
+        ],
+        "faq": [
+          {
+            "question": "How often should I seal my asphalt driveway?",
+            "answer": "We recommend sealing your asphalt driveway every 2-3 years."
+          },
+          {
+            "question": "What type of sealant do you use?",
+            "answer": "We use a high-quality asphalt sealant that is specifically designed for residential driveways."
+          },
+          {
+            "question": "How long does it take for the sealant to dry?",
+            "answer": "The sealant typically takes 24-48 hours to dry completely."
+          }
+        ]
+      },
+      {
+        "slug": "grading-and-drainage",
+        "name": "Grading and Drainage Solutions",
+        "shortDescription": "Expert grading and drainage to prevent water damage to your driveway.",
+        "description": "Proper grading and drainage are crucial for the longevity of any driveway, especially in San Francisco's variable climate. Interstate Grading & Paving provides expert grading and drainage solutions to prevent water damage and ensure a stable driveway surface. We assess your property's drainage and recommend the most effective solutions, including French drains, swales, and proper sloping.\n\nOur team uses advanced equipment and techniques to ensure accurate grading and effective drainage. We understand the importance of directing water away from your foundation and preventing standing water on your driveway. Whether you're building a new driveway or experiencing drainage problems with your existing one, Interstate Grading & Paving delivers expert grading and drainage solutions.",
+        "process": [
+          "Step 1: Site Assessment: We evaluate your property's drainage and identify potential problems.",
+          "Step 2: Grading Design: We design a grading plan that ensures proper water runoff.",
+          "Step 3: Grading Execution: We use heavy equipment to grade the site according to the design.",
+          "Step 4: Drainage Installation (if needed): We install drainage systems, such as French drains or swales."
+        ],
+        "benefits": [
+          "Prevention of water damage",
+          "Extended driveway lifespan",
+          "Improved property value",
+          "Reduced risk of flooding"
+        ],
+        "faq": [
+          {
+            "question": "Why is proper grading and drainage important for my driveway?",
+            "answer": "Proper grading and drainage prevent water from pooling on your driveway, which can lead to cracking, settling, and other damage."
+          },
+          {
+            "question": "What is a French drain?",
+            "answer": "A French drain is a drainage system that uses a perforated pipe buried in gravel to collect and redirect water away from your property."
+          },
+          {
+            "question": "How much does grading and drainage work cost?",
+            "answer": "The cost of grading and drainage work depends on the complexity of the project and the type of drainage system needed. Contact us for a free estimate."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "San Francisco",
+        "slug": "san-francisco-ca",
+        "state": "CA",
+        "content": "Interstate Grading & Paving is proud to offer our expert driveway paving services to the residents and businesses of San Francisco, CA. We understand the unique challenges of paving in an urban environment, from navigating narrow streets to adhering to strict local regulations. Our experienced team is equipped to handle any paving project, big or small, with precision and efficiency.\n\nWe are committed to providing top-quality workmanship and exceptional customer service in San Francisco. Whether you need a new driveway installed, an existing driveway repaired, or a complete paving overhaul, you can trust Interstate Grading & Paving to deliver outstanding results that will enhance the curb appeal and value of your property. We use only the finest materials and state-of-the-art equipment to ensure a durable and long-lasting pavement solution.",
+        "localContext": "San Francisco's diverse neighborhoods and unique architectural styles require a paving company that understands the city's character and can deliver customized solutions to meet the specific needs of each property.",
+        "nearbyAreas": [
+          "Oakland",
+          "Berkeley",
+          "Daly City"
+        ]
+      },
+      {
+        "city": "Oakland",
+        "slug": "oakland-ca",
+        "state": "CA",
+        "content": "Interstate Grading & Paving extends its professional driveway paving services to Oakland, CA. We recognize the diverse architectural landscape of Oakland, from historic Victorian homes to modern developments, and tailor our paving solutions to complement each property's unique style. Our skilled team is adept at handling various paving materials and techniques to ensure a durable and aesthetically pleasing result.\n\nWe are dedicated to providing Oakland residents with reliable and affordable paving services. Whether you're looking to enhance your home's curb appeal with a new driveway or need repairs to an existing one, Interstate Grading & Paving is committed to delivering exceptional workmanship and customer satisfaction. We prioritize using high-quality materials and employing experienced professionals to guarantee a long-lasting and visually appealing pavement solution.",
+        "localContext": "Oakland's vibrant community and diverse neighborhoods require a paving company that understands the local aesthetic and can provide customized solutions to meet the specific needs of each property owner.",
+        "nearbyAreas": [
+          "Berkeley",
+          "Alameda",
+          "San Leandro"
+        ]
+      },
+      {
+        "city": "Berkeley",
+        "slug": "berkeley-ca",
+        "state": "CA",
+        "content": "Interstate Grading & Paving proudly serves the Berkeley, CA community with top-quality driveway paving services. We understand the unique needs of Berkeley homeowners, from historic preservation to modern design aesthetics. Our team is experienced in working with a variety of paving materials and techniques to create durable and visually appealing driveways that complement the city's diverse architectural styles.\n\nWe are committed to providing Berkeley residents with reliable and affordable paving solutions. Whether you need a new driveway installed, an existing driveway repaired, or a complete paving renovation, Interstate Grading & Paving is dedicated to delivering exceptional workmanship and customer satisfaction. We prioritize using environmentally friendly materials whenever possible, reflecting Berkeley's commitment to sustainability.",
+        "localContext": "Berkeley's blend of historic charm and progressive values requires a paving company that understands the city's unique character and can provide customized solutions that meet the specific needs of its residents.",
+        "nearbyAreas": [
+          "Oakland",
+          "Albany",
+          "Emeryville"
+        ]
+      },
+      {
+        "city": "Daly City",
+        "slug": "daly-city-ca",
+        "state": "CA",
+        "content": "Interstate Grading & Paving is pleased to offer our expert driveway paving services to the residents and businesses of Daly City, CA. We understand the importance of a well-maintained driveway for both functionality and curb appeal. Our experienced team is equipped to handle a wide range of paving projects, from small repairs to complete driveway installations.\n\nWe are committed to providing Daly City customers with reliable and affordable paving solutions. Whether you need a new asphalt driveway, a concrete driveway, or repairs to an existing driveway, Interstate Grading & Paving is dedicated to delivering exceptional workmanship and customer satisfaction. We use only the highest quality materials and state-of-the-art equipment to ensure a durable and long-lasting pavement solution.",
+        "localContext": "Daly City's coastal climate and diverse residential areas require a paving company that understands the local conditions and can provide customized solutions to meet the specific needs of each property.",
+        "nearbyAreas": [
+          "San Francisco",
+          "South San Francisco",
+          "Pacifica"
+        ]
+      },
+      {
+        "city": "South San Francisco",
+        "slug": "south-san-francisco-ca",
+        "state": "CA",
+        "content": "Interstate Grading & Paving provides expert driveway paving services to South San Francisco, CA. We understand the importance of durable and aesthetically pleasing driveways in this thriving community. Our experienced team is equipped to handle all types of paving projects, from new installations to repairs and resurfacing.\n\nWe are committed to delivering exceptional workmanship and customer satisfaction to South San Francisco residents. Whether you need a new driveway for your home or a parking area for your business, Interstate Grading & Paving offers reliable and affordable solutions. We use high-quality materials and state-of-the-art equipment to ensure long-lasting results that enhance the value and curb appeal of your property.",
+        "localContext": "South San Francisco's blend of residential and commercial properties requires a versatile paving company that can handle diverse project needs and provide customized solutions for each client.",
+        "nearbyAreas": [
+          "San Bruno",
+          "Daly City",
+          "San Francisco"
+        ]
+      },
+      {
+        "city": "San Bruno",
+        "slug": "san-bruno-ca",
+        "state": "CA",
+        "content": "Interstate Grading & Paving is proud to offer its driveway paving services to the residents and businesses of San Bruno, CA. We understand the importance of a well-maintained driveway for both residential and commercial properties. Our experienced team is equipped to handle a wide range of paving projects, from repairs and resurfacing to complete new installations.\n\nWe are committed to providing San Bruno customers with reliable and affordable paving solutions. Whether you need a new asphalt driveway, a concrete driveway, or repairs to an existing driveway, Interstate Grading & Paving is dedicated to delivering exceptional workmanship and customer satisfaction. We prioritize using high-quality materials and state-of-the-art equipment to ensure a durable and long-lasting pavement solution that enhances the value of your property.",
+        "localContext": "San Bruno's location near the airport and its mix of residential and commercial areas require a paving company that understands the demands of high-traffic zones and can provide customized solutions to meet the specific needs of each property.",
+        "nearbyAreas": [
+          "South San Francisco",
+          "Millbrae",
+          "Daly City"
+        ]
+      },
+      {
+        "city": "Millbrae",
+        "slug": "millbrae-ca",
+        "state": "CA",
+        "content": "Interstate Grading & Paving is pleased to serve the Millbrae, CA community with our professional driveway paving services. We understand the importance of a well-maintained and aesthetically pleasing driveway for enhancing the value and curb appeal of your home. Our experienced team is equipped to handle a variety of paving projects, from minor repairs to complete driveway replacements.\n\nWe are committed to providing Millbrae residents with reliable and affordable paving solutions. Whether you need a new driveway installed, an existing driveway repaired, or a custom paving design, Interstate Grading & Paving is dedicated to delivering exceptional workmanship and customer satisfaction. We prioritize using high-quality materials and employing experienced professionals to ensure a durable and long-lasting pavement solution that meets your specific needs.",
+        "localContext": "Millbrae's upscale residential neighborhoods and proximity to major transportation hubs require a paving company that understands the importance of quality craftsmanship and attention to detail.",
+        "nearbyAreas": [
+          "San Bruno",
+          "Burlingame",
+          "San Mateo"
+        ]
+      },
+      {
+        "city": "Burlingame",
+        "slug": "burlingame-ca",
+        "state": "CA",
+        "content": "Interstate Grading & Paving provides top-quality driveway paving services to the residents and businesses of Burlingame, CA. We understand the importance of a well-maintained driveway for both aesthetic appeal and property value. Our experienced team is equipped to handle a wide range of paving projects, from minor repairs to complete driveway installations and replacements.\n\nWe are committed to providing Burlingame customers with reliable and affordable paving solutions. Whether you need a new asphalt driveway, a concrete driveway, or repairs to an existing driveway, Interstate Grading & Paving is dedicated to delivering exceptional workmanship and customer satisfaction. We use only the highest quality materials and state-of-the-art equipment to ensure a durable and long-lasting pavement solution that enhances the beauty of your property.",
+        "localContext": "Burlingame's charming neighborhoods and commitment to preserving its historical character require a paving company that understands the local aesthetic and can provide customized solutions to meet the specific needs of each property.",
+        "nearbyAreas": [
+          "Millbrae",
+          "San Mateo",
+          "Hillsborough"
+        ]
+      },
+      {
+        "city": "San Mateo",
+        "slug": "san-mateo-ca",
+        "state": "CA",
+        "content": "Interstate Grading & Paving is proud to offer driveway paving services to the San Mateo, CA community. We understand the importance of a durable and attractive driveway that complements your home's architecture and enhances its curb appeal. Our experienced team is equipped to handle a wide range of paving projects, from minor repairs to complete driveway installations.\n\nWe are committed to providing San Mateo residents with reliable and affordable paving solutions. Whether you need a new asphalt driveway, a concrete driveway, or repairs to an existing driveway, Interstate Grading & Paving is dedicated to delivering exceptional workmanship and customer satisfaction. We prioritize using high-quality materials and state-of-the-art equipment to ensure a long-lasting pavement solution that adds value to your property.",
+        "localContext": "San Mateo's diverse neighborhoods and thriving business districts require a paving company that can handle a variety of projects and provide customized solutions to meet the specific needs of each client.",
+        "nearbyAreas": [
+          "Burlingame",
+          "Foster City",
+          "Belmont"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Asphalt Driveway Paving",
+        "text": "Interstate Grading & Paving did an excellent job paving our new asphalt driveway. The crew was professional, efficient, and the price was very reasonable. Our driveway looks fantastic!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Concrete Driveway Repair",
+        "text": "We had some major cracks in our concrete driveway, and Interstate Grading & Paving did a great job repairing them. They were prompt, courteous, and the repairs seem very solid. Would definitely recommend.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Paver Driveway Installation",
+        "text": "We absolutely love our new paver driveway! Interstate Grading & Paving helped us design a beautiful driveway that perfectly complements our home. The installation was flawless, and the crew was very professional.",
+        "date": "2024-09-08"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Driveway Sealing",
+        "text": "Interstate Grading & Paving sealed our asphalt driveway, and it looks brand new! The sealant was applied evenly, and the driveway now has a nice, dark finish. Great service at a fair price.",
+        "date": "2024-07-12"
+      },
+      {
+        "name": "Susan H.",
+        "rating": 4,
+        "service": "Grading and Drainage",
+        "text": "We had some serious drainage issues with our driveway, and Interstate Grading & Paving solved the problem. They regraded the driveway and installed a French drain, and now the water flows away properly. Very happy with their work.",
+        "date": "2024-05-01"
+      },
+      {
+        "name": "Michael T.",
+        "rating": 5,
+        "service": "Asphalt Driveway Repair",
+        "text": "These guys are fantastic! A huge tree root caused a massive crack in my driveway, and they fixed it perfectly. Highly recommend Interstate Grading & Paving for any driveway repair needs.",
+        "date": "2024-02-22"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "SF Driveway Paving | Interstate Grading",
+        "description": "Reliable driveway paving in San Francisco, CA. Asphalt, concrete, pavers. Free estimates. Call +16509527333"
+      },
+      "about": {
+        "title": "About Interstate Grading & Paving",
+        "description": "Learn about Interstate Grading & Paving - San Francisco's trusted driveway paving contractor. Quality, experience, and local expertise."
+      },
+      "services": {
+        "title": "Driveway Paving Services | San Francisco",
+        "description": "Asphalt, concrete, paver driveway services in San Francisco. Repair, installation, sealing. Free quotes."
+      },
+      "contact": {
+        "title": "Contact Interstate Grading & Paving",
+        "description": "Get in touch with Interstate Grading & Paving for driveway paving estimates and inquiries. Call us today!"
+      },
+      "reviews": {
+        "title": "Interstate Grading & Paving Reviews",
+        "description": "Read reviews from satisfied Interstate Grading & Paving customers in San Francisco. Quality driveway paving services."
+      },
+      "service-areas": {
+        "title": "Driveway Paving Service Areas",
+        "description": "Interstate Grading & Paving provides driveway paving services in San Francisco and surrounding Bay Area cities."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "asphalt-driveway-paving": "/images/service-asphalt-driveway-paving.webp",
+      "concrete-driveway-paving": "/images/service-concrete-driveway-paving.webp",
+      "paver-driveway-installation": "/images/service-paver-driveway-installation.webp",
+      "driveway-repair-and-resurfacing": "/images/service-driveway-repair-and-resurfacing.webp",
+      "driveway-sealing": "/images/service-driveway-sealing.webp",
+      "grading-and-drainage": "/images/service-grading-and-drainage.webp"
+    },
+    "servicesResponsive": {
+      "asphalt-driveway-paving": {
+        "src": "/images/service-asphalt-driveway-paving.webp",
+        "srcset": "/images/service-asphalt-driveway-paving-400w.webp 400w, /images/service-asphalt-driveway-paving-800w.webp 800w, /images/service-asphalt-driveway-paving-1200w.webp 1200w, /images/service-asphalt-driveway-paving.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "concrete-driveway-paving": {
+        "src": "/images/service-concrete-driveway-paving.webp",
+        "srcset": "/images/service-concrete-driveway-paving-400w.webp 400w, /images/service-concrete-driveway-paving-800w.webp 800w, /images/service-concrete-driveway-paving-1200w.webp 1200w, /images/service-concrete-driveway-paving.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "paver-driveway-installation": {
+        "src": "/images/service-paver-driveway-installation.webp",
+        "srcset": "/images/service-paver-driveway-installation-400w.webp 400w, /images/service-paver-driveway-installation-800w.webp 800w, /images/service-paver-driveway-installation-1200w.webp 1200w, /images/service-paver-driveway-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveway-repair-and-resurfacing": {
+        "src": "/images/service-driveway-repair-and-resurfacing.webp",
+        "srcset": "/images/service-driveway-repair-and-resurfacing-400w.webp 400w, /images/service-driveway-repair-and-resurfacing-800w.webp 800w, /images/service-driveway-repair-and-resurfacing-1200w.webp 1200w, /images/service-driveway-repair-and-resurfacing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveway-sealing": {
+        "src": "/images/service-driveway-sealing.webp",
+        "srcset": "/images/service-driveway-sealing-400w.webp 400w, /images/service-driveway-sealing-800w.webp 800w, /images/service-driveway-sealing-1200w.webp 1200w, /images/service-driveway-sealing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "grading-and-drainage": {
+        "src": "/images/service-grading-and-drainage.webp",
+        "srcset": "/images/service-grading-and-drainage-400w.webp 400w, /images/service-grading-and-drainage-800w.webp 800w, /images/service-grading-and-drainage-1200w.webp 1200w, /images/service-grading-and-drainage.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
